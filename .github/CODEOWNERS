@@ -1,0 +1,27 @@
+# CODEOWNERS for the AI Skills repository
+#
+# Replace the placeholder GitHub usernames and team handles below with
+# the real maintainers for each category. Teams must exist in the
+# Geodata-ii organization and have write access to this repository.
+
+# Default owners for everything not matched below.
+* @arulselvan001
+
+# Repository governance and templates.
+/.github/ @arulselvan001
+/templates/ @arulselvan001
+/docs/ @arulselvan001
+
+# Skill category owners.
+/skills/ai/ @Geodata-ii/ai-maintainers
+/skills/automation/ @Geodata-ii/automation-maintainers
+/skills/backend/ @Geodata-ii/backend-maintainers
+/skills/cloud/ @Geodata-ii/cloud-maintainers
+/skills/data/ @Geodata-ii/data-maintainers
+/skills/database/ @Geodata-ii/database-maintainers
+/skills/devops/ @Geodata-ii/devops-maintainers
+/skills/frontend/ @Geodata-ii/frontend-maintainers
+/skills/security/ @Geodata-ii/security-maintainers
+/skills/support/ @Geodata-ii/support-maintainers
+/skills/testing/ @Geodata-ii/testing-maintainers
+/skills/web/ @Geodata-ii/web-maintainers

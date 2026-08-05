@@ -26,18 +26,18 @@ ai-skills/
 ├── docs/                   # Contributor and process documentation
 ├── templates/              # Reusable templates (e.g. SKILL_TEMPLATE.md)
 ├── skills/                 # The Skill library, organized by category
-│   ├── ai/
-│   ├── automation/
-│   ├── backend/
-│   ├── cloud/
-│   ├── data/
-│   ├── database/
-│   ├── devops/
-│   ├── frontend/
-│   ├── security/
-│   ├── support/
-│   ├── testing/
-│   └── web/
+│   ├── ai/                   # Prompting, RAG, chatbots, AI-assisted workflows
+│   ├── automation/           # Task automation and workflow scripts
+│   ├── cloud/                # Azure, cPanel, GoDaddy, and other hosting/cloud skills
+│   ├── data/                 # Data export, ETL, and RAG data preparation
+│   ├── devops/               # CI/CD, deployments, backups, rollback plans
+│   ├── enterprise/           # Dynamics 365 F&O and other enterprise systems
+│   ├── power-platform/       # Power BI dashboards, data models, DAX
+│   ├── security/             # Security review and best practices
+│   ├── support/              # Support workflows and troubleshooting guides
+│   ├── testing/              # Test strategy and QA skills
+│   ├── ui-ux/                # Document/deck generation and UI/UX skills
+│   └── web/                  # api/, backend/, database/, frontend/ web skills
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
